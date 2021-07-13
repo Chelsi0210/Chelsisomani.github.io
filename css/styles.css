@@ -21,6 +21,15 @@ hr{
   margin: 50px auto 50px auto;
 }
 
+raj-box{
+  margin: 0 20px 0 20px;
+}
+
+table,thead,tr,th{
+  border: 4px solid black;
+  border-collapse: collapse;
+}
+
 h1{
   color: #fff;
   margin: 20px auto 0 auto;
@@ -56,20 +65,36 @@ a{
   position: relative;
 }
 
+#contact{
+  background-color: #ccffe6;
+}
+
+#hobbies{
+  background-color: #ffe6ff;
+}
+
+#skills{
+  background-color: #ddccff;
+}
+
+#Moreaboutme{
+  background-color: #ffd9b3;
+}
+.raj-box{
+  padding: inherit;
+}
+
 .feature-title {
   font-size: 1.5rem;
 }
 
 .feature-box {
-  padding: 4.5%;
-}
-.code-box{
-    padding: 4.5%;
+  padding: 3.5%;
 }
 
 .icon {
   color: #40514E;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .icon:hover {
@@ -108,7 +133,7 @@ a:hover{
 
 .bottom-container{
   line-height: 1.75;
-  margin: 100px auto 0 auto;
+  margin: 30px auto 0 auto;
   padding: 50px 0 30px;
   background-color: #000;
 }
@@ -117,7 +142,7 @@ a:hover{
 }
 .skill-row{
   width: 50%;
-  margin: 100px auto 0 auto;
+  margin: 50px auto 0 auto;
   text-align: left;
 
 }
@@ -126,7 +151,7 @@ a:hover{
 }
 .hobbies-row{
   width: 50%;
-  margin: 100px auto 0 auto;
+  margin: 50px auto 0 auto;
   text-align: left;
 
 }
