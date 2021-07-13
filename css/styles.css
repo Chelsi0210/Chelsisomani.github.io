@@ -1,0 +1,203 @@
+body{
+  color: #000;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+
+P{
+  line-height: 1.75;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #adad85;
+  border-width: 8px;
+  width: 7%;
+  margin: 50px auto 50px auto;
+}
+
+h1{
+  color: #fff;
+  margin: 20px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2{
+  color: #000080;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+h6{
+  color: #fff;
+}
+a{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+#title {
+  background-color: #000000;
+}
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+.code-box{
+    padding: 4.5%;
+}
+
+.icon {
+  color: #40514E;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #000000;
+}
+
+a:hover{
+  color: #000;
+  text-align: justify;
+}
+.navbar-brand {
+  font-family: 'Otomanopee One', sans-serif;;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 1px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  text-align: justify;
+  font-family: "Montserrat";
+}
+
+.col-lg-6 {
+  padding-left: 60px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.bottom-container{
+  line-height: 1.75;
+  margin: 100px auto 0 auto;
+  padding: 50px 0 30px;
+  background-color: #000;
+}
+.profile{
+  margin-top: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: left;
+
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.hobbies-row{
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: left;
+
+}
+.travel-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.cycle-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.dance-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.web-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.event-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.marketing-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile{
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 40px auto;
+}
+
+.rights{
+  margin-top: 70px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999a);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999a);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999a);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999a);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999a);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #e8e3e8;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc48d);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc48d);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc48d);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc48d);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc48d);
+  text-decoration: none;
+}
